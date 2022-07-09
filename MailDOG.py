@@ -150,6 +150,5 @@ if __name__ == '__main__':
                                         by tu
     """
     print(logo)
-    # MailDog(domain="mail.citic.com").run()
     fire.Fire(MailDog)
 
